@@ -214,8 +214,8 @@ Understanding what data is available will be more helpful while doing analysis. 
 
 
 
-
-<img src="https://github.com/rajeshkumar1312/Business_insights_360/blob/main/Reports/Data_modeling-2.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/Data_modeling-1.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/Data_modeling-2.png" class="center">
 
 ***
 
@@ -242,43 +242,43 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Home page
 
-<img src="https://github.com/rajeshkumar1312/Business_insights_360/blob/main/Reports/Home%20Page.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/Home%20Page.png" class="center">
 
 ***
 
 ## Finance View
 
-<img src="https://github.com/rajeshkumar1312/Business_insights_360/blob/main/Reports/Finance_view.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/Finance_view.png" class="center">
 
 ***
 
 ## Sales View
 
-<img src="https://github.com/rajeshkumar1312/Business_insights_360/blob/main/Reports/Sales_view.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/Sales_view.png" class="center">
 
 ***
 
 ## Marketing View
 
-<img src="https://github.com/rajeshkumar1312/Business_insights_360/blob/main/Reports/Marketing_view.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/Marketing_view.png" class="center">
 
 ***
 
 ## Supply chain View
 
-<img src="https://github.com/rajeshkumar1312/Business_insights_360/blob/main/Reports/SupplyChian_view.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/SupplyChain_view.png" class="center">
 
 ***
 
 ## Executive View
 
-<img src="https://github.com/rajeshkumar1312/Business_insights_360/blob/main/Reports/Executive_view.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/Executive_view.png" class="center">
 
 ***
 
 ## Products
 
-<img src="https://github.com/rajeshkumar1312/Business_insights_360/blob/main/Reports/Executive_view.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/Product_view.png" class="center">
 
 ***
 
