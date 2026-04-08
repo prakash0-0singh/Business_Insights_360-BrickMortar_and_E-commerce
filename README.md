@@ -266,7 +266,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Supply chain View
 
-<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/SupplyChain_view.png" class="center">
+<img src="https://github.com/prakash0-0singh/Business_Insights_360-BrickMortar_and_E-commerce/blob/main/Assets/SupplyChian_view.png" class="center">
 
 ***
 
